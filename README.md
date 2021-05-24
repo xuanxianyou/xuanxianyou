@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Knaeziki
+- 👋 Hi, I’m Kaneziki
 - 👀 I’m interested in Golang,Rust,Python and C
-- 🌱 I’m currently learning Algorithms
+- 🌱 I’m currently learning Algorithms and Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
